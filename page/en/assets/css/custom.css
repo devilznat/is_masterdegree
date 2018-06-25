@@ -1,0 +1,22 @@
+
+@font-face {
+    font-family: 'rsuregular';
+    src: url('font/RSU-Regular/rsu_regular-webfont.eot');
+    src: url('font/RSU-Regular/rsu_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/RSU-Regular/rsu_regular-webfont.woff2') format('woff2'),
+         url('font/RSU-Regular/rsu_regular-webfont.woff') format('woff'),
+         url('font/RSU-Regular/rsu_regular-webfont.ttf') format('truetype'),
+         url('font/RSU-Regular/rsu_regular-webfont.svg#rsuregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}/* Add here all your css styles (customizations) */
+/* Spetify Font to use  */
+body { font-family: "rsuregular" , 'rsulight','superstorebook' , 'solomonregular' ,"Open Sans",  Arial, sans-serif; !important; }
+h1, h2, h3, h4, h5, h6 {
+	color: #555;
+	margin-top: 5px;
+	text-shadow: none;
+	font-weight: normal;
+	font-family:  "rsuregular" , 'rsulight','superstorebook' , 'solomonregular' ,"Open Sans",  Arial, sans-serif;  
+}

@@ -1,0 +1,54 @@
+[17-Apr-2018 00:06:30 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 00:06:30 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 00:06:30 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/page/backend/member/dashboard_member.php on line 12
+[17-Apr-2018 00:06:36 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 00:06:36 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 00:06:36 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/page/backend/member/dashboard_member.php on line 12
+[17-Apr-2018 00:06:59 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 00:06:59 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 00:06:59 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/page/backend/member/dashboard_member.php on line 12
+[17-Apr-2018 00:06:59 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/page/backend/member/dashboard_member.php on line 22
+[17-Apr-2018 00:06:59 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/page/backend/member/dashboard_member.php on line 26
+[17-Apr-2018 14:21:20 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 00:12:00 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:18:51 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:18:59 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:20:53 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:20:55 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:25:44 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:25:45 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:25:47 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:25:52 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:26:36 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:26:38 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:26:41 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:26:44 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 19:22:25 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 19:22:56 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 19:22:58 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 19:23:02 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 19:24:52 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 19:24:55 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 19:24:55 Asia/Bangkok] PHP Notice:  Use of undefined constant article_ID - assumed 'article_ID' in /home/a4qmwj6sc7xi/public_html/page/backend/member/add-exp.php on line 234
+[20-Apr-2018 19:26:15 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 19:26:15 Asia/Bangkok] PHP Notice:  Use of undefined constant article_ID - assumed 'article_ID' in /home/a4qmwj6sc7xi/public_html/page/backend/member/add-exp.php on line 234
+[20-Apr-2018 19:27:06 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 20:19:56 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 20:19:58 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 01:29:54 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 01:31:18 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 01:32:24 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 01:32:24 Asia/Bangkok] PHP Notice:  Use of undefined constant article_ID - assumed 'article_ID' in /home/a4qmwj6sc7xi/public_html/page/backend/member/add-exp.php on line 234
+[25-Apr-2018 12:05:09 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 12:05:09 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[25-Apr-2018 12:05:09 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[25-Apr-2018 12:13:48 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 12:13:48 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[25-Apr-2018 12:13:48 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[25-Apr-2018 12:27:11 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 12:27:23 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 12:27:23 Asia/Bangkok] PHP Notice:  Use of undefined constant article_ID - assumed 'article_ID' in /home/a4qmwj6sc7xi/public_html/page/backend/member/add-exp.php on line 234
+[25-Apr-2018 12:27:54 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 12:27:54 Asia/Bangkok] PHP Notice:  Use of undefined constant article_ID - assumed 'article_ID' in /home/a4qmwj6sc7xi/public_html/page/backend/member/add-exp.php on line 234
+[25-Apr-2018 12:27:56 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 11:05:01 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3

@@ -1,0 +1,964 @@
+[22-Feb-2018 04:36:41 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 04:36:41 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 04:36:41 Asia/Bangkok] PHP Notice:  Undefined index: user_id in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 04:36:41 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 04:36:41 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 04:36:51 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 04:36:51 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 04:36:51 Asia/Bangkok] PHP Notice:  Undefined index: user_id in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 04:36:51 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 04:36:51 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 04:40:09 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 04:40:09 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 04:40:09 Asia/Bangkok] PHP Notice:  Undefined index: user_id in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 04:40:09 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 04:40:09 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 04:41:38 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 04:41:38 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 04:41:38 Asia/Bangkok] PHP Notice:  Undefined index: user_id in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 04:41:38 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 04:41:38 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 04:42:34 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 04:42:34 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 04:42:34 Asia/Bangkok] PHP Notice:  Undefined index: user_id in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 04:42:34 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 04:42:34 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 04:42:56 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 04:42:56 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 04:42:56 Asia/Bangkok] PHP Notice:  Undefined index: user_id in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 04:42:56 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 04:42:56 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 04:43:15 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 04:43:15 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 04:43:15 Asia/Bangkok] PHP Notice:  Undefined index: user_id in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 04:43:15 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 04:43:15 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 04:45:25 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 04:45:25 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 04:45:25 Asia/Bangkok] PHP Notice:  Undefined index: user_id in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 04:45:25 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 04:45:25 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 04:45:35 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 04:45:35 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 04:45:35 Asia/Bangkok] PHP Notice:  Undefined index: user_id in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 04:45:35 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 04:45:35 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 05:10:48 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:10:48 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:10:48 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:10:48 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 05:10:48 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[21-Feb-2018 22:10:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 125
+[22-Feb-2018 05:10:58 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:10:58 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:10:58 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:10:58 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 05:10:58 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[21-Feb-2018 22:11:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 125
+[22-Feb-2018 05:11:08 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:11:08 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:11:08 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:11:08 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 05:11:08 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[21-Feb-2018 22:11:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 125
+[22-Feb-2018 05:11:11 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:11:11 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:11:11 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:11:11 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 05:11:11 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[21-Feb-2018 22:11:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 125
+[21-Feb-2018 22:12:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 125
+[22-Feb-2018 05:12:24 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:12:24 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:12:24 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:12:24 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 05:12:24 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 05:12:25 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:12:25 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:12:25 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:12:25 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 05:12:25 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 05:12:50 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:12:50 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:12:50 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:12:50 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 05:12:50 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 05:12:53 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:12:53 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:12:53 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:12:53 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 05:12:53 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 05:12:55 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:12:55 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:12:55 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:12:55 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 05:12:55 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[21-Feb-2018 22:13:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 125
+[22-Feb-2018 05:14:03 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:14:03 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:14:03 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:14:03 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 05:14:03 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 05:14:04 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:14:04 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:14:04 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:14:04 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 05:14:04 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[21-Feb-2018 22:14:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 125
+[22-Feb-2018 05:14:07 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:14:07 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:14:07 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:14:07 Asia/Bangkok] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 11
+[22-Feb-2018 05:14:07 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 12
+[22-Feb-2018 05:15:14 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:15:14 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:15:14 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Feb-2018 22:15:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 125
+[22-Feb-2018 05:15:17 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:15:17 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:15:17 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:16:38 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:16:38 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:16:38 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Feb-2018 22:16:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 125
+[21-Feb-2018 22:16:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 125
+[21-Feb-2018 22:18:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 131
+[21-Feb-2018 22:18:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 131
+[21-Feb-2018 22:21:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 131
+[21-Feb-2018 22:25:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 127
+[21-Feb-2018 22:27:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 127
+[21-Feb-2018 22:28:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 127
+[22-Feb-2018 05:28:02 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:28:02 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:28:02 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:28:12 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:28:12 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:28:12 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Feb-2018 22:28:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 127
+[22-Feb-2018 05:28:25 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:28:25 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:28:25 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:28:25 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:28:25 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:28:25 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Feb-2018 22:28:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 127
+[22-Feb-2018 05:29:11 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 29
+[22-Feb-2018 05:29:30 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 29
+[22-Feb-2018 05:29:41 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 29
+[22-Feb-2018 05:29:56 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 29
+[22-Feb-2018 05:29:59 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 29
+[22-Feb-2018 05:30:55 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 29
+[22-Feb-2018 05:31:43 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 29
+[22-Feb-2018 05:32:05 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 30
+[22-Feb-2018 05:33:01 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 30
+[22-Feb-2018 05:33:30 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 30
+[22-Feb-2018 05:33:45 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 30
+[22-Feb-2018 05:34:29 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 30
+[22-Feb-2018 05:36:48 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 30
+[22-Feb-2018 05:38:36 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 30
+[22-Feb-2018 05:38:53 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:38:53 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:38:53 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:38:55 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 30
+[22-Feb-2018 05:38:57 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:38:57 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:38:57 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:38:59 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:38:59 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:38:59 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:39:01 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 30
+[22-Feb-2018 05:46:39 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 29
+[22-Feb-2018 05:46:40 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:46:40 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:46:40 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:46:41 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:46:41 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:46:41 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:46:46 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 29
+[22-Feb-2018 05:47:08 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 29
+[22-Feb-2018 05:50:59 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:50:59 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:50:59 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:51:06 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 25
+[22-Feb-2018 05:52:42 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 25
+[22-Feb-2018 05:52:44 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 25
+[22-Feb-2018 05:53:12 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 25
+[22-Feb-2018 05:53:14 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:53:14 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:53:14 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:53:15 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:53:15 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:53:15 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:53:16 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 25
+[22-Feb-2018 05:54:08 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 25
+[22-Feb-2018 05:54:10 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 25
+[22-Feb-2018 05:54:19 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 25
+[22-Feb-2018 05:58:14 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:58:14 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:58:14 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 05:58:15 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 05:58:15 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 05:58:15 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Feb-2018 22:58:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 125
+[22-Feb-2018 15:33:45 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 15:33:45 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 15:33:45 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Feb-2018 20:58:23 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 20:58:23 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 20:58:24 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 20:58:24 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 20:58:36 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 20:58:36 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:01:11 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:01:11 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:02:15 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:02:15 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:02:16 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:02:16 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:02:29 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:02:29 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:08:32 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:08:32 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:08:42 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:08:42 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:20:55 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:20:55 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:20:57 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:20:57 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:21:10 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:21:10 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:21:19 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:21:19 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:24:07 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:24:07 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:24:21 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:24:21 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:24:24 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:24:24 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:24:25 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:24:25 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[22-Feb-2018 21:24:26 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Feb-2018 21:24:26 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[23-Feb-2018 03:45:06 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[23-Feb-2018 03:45:06 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[23-Feb-2018 03:45:06 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[23-Feb-2018 14:12:51 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[23-Feb-2018 14:12:51 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[23-Feb-2018 14:12:51 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[24-Feb-2018 13:24:27 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:24:27 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:24:27 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[24-Feb-2018 13:24:40 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:24:40 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:26:26 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:26:26 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:28:17 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:28:17 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:28:53 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:28:53 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:29:19 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:29:19 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:29:21 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:29:21 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:30:37 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:30:37 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:30:38 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:30:38 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:31:05 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:31:05 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:31:06 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:31:06 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:31:07 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:31:07 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:31:24 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:31:24 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:31:26 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:31:26 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:31:27 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:31:27 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:33:51 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:33:51 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:33:53 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:33:53 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:34:15 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:34:15 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:34:15 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[24-Feb-2018 13:35:22 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:35:22 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:38:46 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:38:46 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:38:59 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:38:59 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 13:50:21 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 13:50:21 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 14:52:55 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[24-Feb-2018 14:52:55 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[24-Feb-2018 14:52:55 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[25-Feb-2018 01:36:52 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Feb-2018 01:36:52 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[25-Feb-2018 01:36:52 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[26-Feb-2018 03:19:27 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[26-Feb-2018 03:19:27 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[26-Feb-2018 03:19:27 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[26-Feb-2018 19:02:28 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[26-Feb-2018 19:02:28 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[26-Feb-2018 19:02:28 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[26-Feb-2018 20:40:07 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[26-Feb-2018 20:40:07 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[26-Feb-2018 20:40:07 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[26-Feb-2018 22:23:54 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[26-Feb-2018 22:23:54 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[26-Feb-2018 22:23:54 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[26-Feb-2018 23:20:22 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[26-Feb-2018 23:20:22 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[26-Feb-2018 23:20:22 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[27-Feb-2018 02:17:33 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[27-Feb-2018 02:17:33 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[27-Feb-2018 02:17:33 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[04-Mar-2018 18:32:37 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 18:32:37 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 18:32:38 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[04-Mar-2018 18:35:12 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 18:35:12 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 18:37:09 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 18:37:09 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 18:37:36 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 18:37:36 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 18:37:37 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 18:37:37 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 18:37:39 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 18:37:39 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 18:39:22 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 18:39:22 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 18:39:22 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[04-Mar-2018 20:43:36 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 20:43:36 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 20:43:36 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[04-Mar-2018 20:43:58 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 20:43:58 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 20:44:22 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 20:44:22 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 20:44:25 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 20:44:25 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 21:50:45 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 21:50:45 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 21:50:45 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[04-Mar-2018 21:56:09 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 21:56:09 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 21:56:09 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[04-Mar-2018 21:58:08 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 21:58:08 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 21:59:07 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 21:59:07 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 21:59:07 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[04-Mar-2018 22:01:44 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 22:01:44 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 22:01:55 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 22:01:55 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 22:03:09 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 22:03:09 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 22:04:53 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 22:04:53 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 22:04:55 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 22:04:55 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 22:04:56 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 22:04:56 Asia/Bangkok] PHP Notice:  Constant ROOT already defined in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 5
+[04-Mar-2018 22:09:40 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 22:09:42 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[04-Mar-2018 22:10:10 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[05-Mar-2018 03:08:44 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[05-Mar-2018 03:08:44 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[05-Mar-2018 03:08:50 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[05-Mar-2018 03:08:50 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[05-Mar-2018 03:09:00 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[05-Mar-2018 03:09:00 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[05-Mar-2018 03:09:17 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 12:42:34 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 12:42:34 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 12:43:28 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 12:43:28 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 12:53:29 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 12:53:29 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:03:03 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:03:03 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:03:10 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:03:10 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:03:16 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:03:16 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:03:47 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[07-Mar-2018 13:03:47 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:03:47 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:04:15 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:04:15 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:05:36 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[07-Mar-2018 13:05:36 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:05:36 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:06:56 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:06:56 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:07:08 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:07:08 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:07:09 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:07:09 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:07:17 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:07:17 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:07:25 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[07-Mar-2018 13:07:25 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:07:25 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:24:27 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:24:27 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:24:33 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:24:33 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:24:46 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:24:46 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:27:03 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:27:03 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:27:06 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:27:06 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 13:27:08 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:27:08 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Mar-2018 06:27:21 UTC] PHP Warning:  require_once(../../../db/connect.php): failed to open stream: No such file or directory in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 7
+[07-Mar-2018 06:27:21 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../db/connect.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 7
+[07-Mar-2018 13:31:08 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Mar-2018 13:31:08 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[10-Mar-2018 13:12:50 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[10-Mar-2018 13:12:50 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[10-Mar-2018 06:13:04 UTC] PHP Warning:  require_once(../../../db/connect.php): failed to open stream: No such file or directory in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 7
+[10-Mar-2018 06:13:04 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../db/connect.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 7
+[10-Mar-2018 06:13:48 UTC] PHP Warning:  require_once(../../../db/connect.php): failed to open stream: No such file or directory in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 7
+[10-Mar-2018 06:13:48 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../db/connect.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 7
+[10-Mar-2018 13:13:59 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 11
+[10-Mar-2018 13:13:59 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[10-Mar-2018 13:13:59 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[10-Mar-2018 13:13:59 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[10-Mar-2018 13:15:30 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[10-Mar-2018 13:15:30 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[10-Mar-2018 13:15:31 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[10-Mar-2018 13:15:31 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[10-Mar-2018 13:15:40 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[10-Mar-2018 13:15:40 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[10-Mar-2018 13:15:40 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[11-Mar-2018 21:33:05 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[11-Mar-2018 21:33:05 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[15-Mar-2018 12:16:27 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[15-Mar-2018 12:16:27 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[19-Mar-2018 08:03:08 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[19-Mar-2018 08:03:08 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Mar-2018 08:30:54 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Mar-2018 08:30:54 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[22-Mar-2018 02:01:29 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[22-Mar-2018 02:01:29 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[27-Mar-2018 07:01:59 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[27-Mar-2018 07:01:59 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[06-Apr-2018 03:17:40 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[06-Apr-2018 03:17:40 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Apr-2018 01:49:02 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Apr-2018 01:49:02 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Apr-2018 02:00:20 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Apr-2018 02:00:20 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Apr-2018 02:00:42 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[07-Apr-2018 02:00:42 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Apr-2018 02:00:42 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Apr-2018 02:16:06 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Apr-2018 03:02:48 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[07-Apr-2018 03:02:48 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Apr-2018 03:02:48 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Apr-2018 03:11:56 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Apr-2018 03:11:56 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Apr-2018 03:39:32 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Apr-2018 03:39:32 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[07-Apr-2018 03:58:43 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[07-Apr-2018 03:58:43 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[10-Apr-2018 09:09:13 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[10-Apr-2018 09:09:13 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[10-Apr-2018 09:09:13 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[10-Apr-2018 09:09:13 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[10-Apr-2018 09:09:16 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[10-Apr-2018 09:09:16 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[10-Apr-2018 09:09:17 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[10-Apr-2018 09:09:17 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[14-Apr-2018 18:54:33 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[14-Apr-2018 18:54:33 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[16-Apr-2018 23:24:03 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:24:03 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[16-Apr-2018 23:24:19 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[16-Apr-2018 23:24:19 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:24:19 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[16-Apr-2018 23:24:55 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[16-Apr-2018 23:24:55 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:24:55 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[16-Apr-2018 23:27:41 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:27:41 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[16-Apr-2018 23:29:33 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:35:49 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:35:51 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:39:44 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[16-Apr-2018 23:39:44 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:39:44 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[16-Apr-2018 23:42:42 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:44:57 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:44:58 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:47:15 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[16-Apr-2018 23:47:15 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:47:15 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[16-Apr-2018 23:55:45 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[16-Apr-2018 23:55:45 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:55:45 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[16-Apr-2018 23:56:37 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:57:43 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[16-Apr-2018 23:57:44 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[16-Apr-2018 23:57:44 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 00:00:36 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[17-Apr-2018 00:00:36 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 00:00:36 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 00:00:41 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 00:00:41 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 00:02:23 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[17-Apr-2018 00:02:24 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 00:02:24 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 00:07:55 Asia/Bangkok] PHP Notice:  Undefined index: txtUsername in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 10
+[17-Apr-2018 00:07:55 Asia/Bangkok] PHP Notice:  Undefined index: txtPassword in /home/a4qmwj6sc7xi/public_html/page/backend/check_login.php on line 11
+[17-Apr-2018 00:07:55 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 00:07:55 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 00:08:16 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 00:08:16 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 00:17:52 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[17-Apr-2018 00:17:52 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 00:17:52 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 00:43:54 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[17-Apr-2018 00:43:54 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 00:43:54 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 00:44:11 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[17-Apr-2018 00:44:11 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 00:44:11 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 14:12:08 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 11
+[17-Apr-2018 14:12:08 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[17-Apr-2018 14:12:08 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 14:12:08 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 14:13:46 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[17-Apr-2018 14:13:46 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 14:13:46 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 14:20:10 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[17-Apr-2018 14:20:10 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 14:20:10 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 14:53:42 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[17-Apr-2018 14:53:42 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 14:53:42 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 15:24:54 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[17-Apr-2018 15:24:54 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 15:24:54 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 15:25:11 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 15:25:11 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 15:59:22 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[17-Apr-2018 15:59:22 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 15:59:22 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 16:54:25 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[17-Apr-2018 16:54:25 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 16:54:25 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 16:54:51 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 16:54:51 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 16:54:56 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[17-Apr-2018 16:54:57 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 16:54:57 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[17-Apr-2018 16:55:21 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[17-Apr-2018 16:55:21 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[17-Apr-2018 16:55:21 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[18-Apr-2018 22:31:57 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[18-Apr-2018 22:31:57 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[19-Apr-2018 21:43:27 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[19-Apr-2018 21:43:27 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 00:11:13 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 00:11:13 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 00:11:28 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 00:11:28 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 00:11:53 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 00:11:53 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 00:11:53 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 00:12:08 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 00:12:08 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 00:12:08 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 00:12:45 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 00:38:45 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 00:38:45 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 00:38:45 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 01:58:41 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 01:58:41 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 03:08:26 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 03:08:26 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 03:10:08 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 03:20:27 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 03:20:27 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 03:20:27 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 13:45:47 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 13:45:47 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 13:45:48 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 13:45:48 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 13:51:02 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 13:51:02 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 13:51:02 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 13:51:17 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 13:51:17 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 13:51:17 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 13:51:17 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 14:04:54 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 14:04:54 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:04:54 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 14:18:43 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 14:18:43 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:18:43 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 14:26:46 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 14:26:46 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:26:46 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 14:56:47 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 14:56:47 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 14:56:47 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 15:16:08 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 15:16:08 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 15:16:08 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 15:19:23 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 15:19:23 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 15:19:23 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 15:19:29 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 11
+[20-Apr-2018 15:19:29 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 15:19:29 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 15:19:29 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 15:20:48 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 15:20:48 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 15:20:48 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 15:28:16 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 15:28:16 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 15:28:16 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 16:02:55 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 16:02:55 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 16:02:55 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 16:17:10 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 16:17:10 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 16:17:10 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 16:17:10 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 16:17:17 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 16:17:17 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 16:17:17 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 16:20:52 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 16:20:52 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 16:20:52 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 16:21:03 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 16:21:03 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 16:21:03 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 16:21:03 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 16:21:14 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 16:21:14 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 16:21:14 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 16:21:14 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 16:21:14 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 16:21:14 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 16:54:32 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 16:54:32 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 16:54:32 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 16:54:32 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 16:54:51 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 16:54:51 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 16:54:51 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 16:54:52 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 16:54:52 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 16:54:52 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 16:54:52 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 16:54:52 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 16:54:52 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 16:55:36 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 16:55:36 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 16:55:36 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 17:45:20 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 17:45:20 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 17:45:20 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 17:45:42 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 17:45:42 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 17:45:42 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 18:13:08 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 18:13:08 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 18:13:08 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 18:28:15 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 18:28:16 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 18:28:16 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 18:28:16 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 18:39:13 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 18:39:13 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 18:39:13 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 18:39:14 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 18:39:14 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 18:39:14 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 19:16:58 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 19:16:59 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 19:16:59 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 19:16:59 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 19:22:16 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 19:22:16 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 19:22:16 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 19:27:11 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 19:27:12 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 19:27:12 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 19:27:12 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 20:15:25 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 20:15:25 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 20:15:25 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[20-Apr-2018 20:19:45 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[20-Apr-2018 20:19:46 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[20-Apr-2018 20:19:46 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[20-Apr-2018 20:19:46 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[21-Apr-2018 01:42:05 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 11
+[21-Apr-2018 01:42:05 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[21-Apr-2018 01:42:05 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[21-Apr-2018 01:42:05 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Apr-2018 01:42:05 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[21-Apr-2018 09:56:44 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[21-Apr-2018 09:56:44 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Apr-2018 09:56:44 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[21-Apr-2018 09:56:45 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[21-Apr-2018 09:56:45 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Apr-2018 09:56:45 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[21-Apr-2018 10:23:26 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[21-Apr-2018 10:23:26 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Apr-2018 10:23:26 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[21-Apr-2018 10:54:39 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[21-Apr-2018 10:54:39 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[21-Apr-2018 10:54:39 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Apr-2018 10:54:39 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[21-Apr-2018 12:01:00 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[21-Apr-2018 12:01:00 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Apr-2018 12:01:00 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[21-Apr-2018 12:01:01 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[21-Apr-2018 12:01:01 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Apr-2018 12:01:01 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[21-Apr-2018 12:02:57 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[21-Apr-2018 12:02:58 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[21-Apr-2018 12:02:58 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Apr-2018 12:02:58 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[21-Apr-2018 12:08:12 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[21-Apr-2018 12:08:12 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[21-Apr-2018 12:08:12 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Apr-2018 12:08:12 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[21-Apr-2018 12:08:37 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[21-Apr-2018 12:08:37 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Apr-2018 12:08:37 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[21-Apr-2018 12:08:47 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[21-Apr-2018 12:08:47 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[21-Apr-2018 12:08:47 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Apr-2018 12:08:47 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[21-Apr-2018 12:08:49 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[21-Apr-2018 12:08:49 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Apr-2018 12:08:49 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[21-Apr-2018 16:26:00 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[21-Apr-2018 16:26:00 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Apr-2018 16:26:00 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[21-Apr-2018 16:29:16 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[21-Apr-2018 16:29:16 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[21-Apr-2018 16:29:16 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[21-Apr-2018 16:29:16 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[25-Apr-2018 01:01:10 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 01:01:10 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[25-Apr-2018 01:01:10 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[25-Apr-2018 01:18:12 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[25-Apr-2018 01:18:12 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 01:18:12 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[25-Apr-2018 01:18:12 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[25-Apr-2018 01:29:45 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[25-Apr-2018 01:29:45 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 01:29:45 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[25-Apr-2018 01:29:45 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[25-Apr-2018 12:05:10 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 12:05:10 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[25-Apr-2018 12:05:10 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[25-Apr-2018 12:13:48 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 12:13:48 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[25-Apr-2018 12:13:48 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[25-Apr-2018 12:14:18 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 12:14:18 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[25-Apr-2018 12:14:18 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[25-Apr-2018 12:23:54 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[25-Apr-2018 12:23:54 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 12:23:54 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[25-Apr-2018 12:23:54 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[25-Apr-2018 12:26:58 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[25-Apr-2018 12:26:58 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 12:26:58 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[25-Apr-2018 12:26:58 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[25-Apr-2018 12:30:05 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
+[25-Apr-2018 12:30:05 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[25-Apr-2018 12:30:05 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[25-Apr-2018 12:30:05 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[28-Apr-2018 13:52:21 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[28-Apr-2018 13:52:21 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[28-Apr-2018 13:52:21 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[28-Apr-2018 13:52:33 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[28-Apr-2018 13:52:33 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[28-Apr-2018 13:52:33 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[28-Apr-2018 13:52:35 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[28-Apr-2018 13:52:35 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[28-Apr-2018 13:52:35 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[29-Apr-2018 02:08:05 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[29-Apr-2018 02:08:05 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[29-Apr-2018 02:08:05 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[29-Apr-2018 02:08:41 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[29-Apr-2018 02:08:49 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[29-Apr-2018 08:27:30 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[29-Apr-2018 08:27:30 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[29-Apr-2018 08:27:30 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[29-Apr-2018 08:27:59 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[29-Apr-2018 09:18:12 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[29-Apr-2018 09:18:12 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[29-Apr-2018 09:18:12 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[29-Apr-2018 09:48:47 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[29-Apr-2018 09:48:47 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[29-Apr-2018 09:48:47 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[29-Apr-2018 16:53:07 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[29-Apr-2018 16:53:07 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[29-Apr-2018 16:53:07 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[29-Apr-2018 21:02:38 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[29-Apr-2018 21:02:38 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[29-Apr-2018 21:02:38 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 00:22:37 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 00:22:37 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 00:22:37 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 00:22:41 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 00:22:41 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 00:22:41 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 00:22:43 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 00:22:43 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 00:22:43 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 10:53:09 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 10:53:09 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 10:53:09 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 10:53:18 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 10:53:18 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 10:53:18 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 10:53:29 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 10:53:29 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 10:53:29 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 10:53:41 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 10:53:41 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 10:53:41 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 10:54:53 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 10:54:53 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 10:54:53 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 10:54:55 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 10:54:55 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 10:54:55 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 10:54:56 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 10:54:56 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 10:54:56 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 10:55:05 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 10:55:05 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 10:55:05 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 10:55:33 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 10:55:55 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 11:04:54 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 13:49:01 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 13:49:01 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 13:49:01 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 13:49:07 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 13:49:07 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 13:49:07 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 13:49:16 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 13:49:16 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 13:49:16 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 13:51:03 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 13:51:03 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 13:51:03 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 13:51:10 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 13:51:10 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 13:51:10 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 15:24:44 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 15:24:44 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 15:24:44 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[30-Apr-2018 20:37:15 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[30-Apr-2018 20:37:15 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[30-Apr-2018 20:37:15 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[01-May-2018 22:15:46 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[01-May-2018 22:15:46 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[01-May-2018 22:15:46 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[03-May-2018 23:02:03 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[03-May-2018 23:02:03 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[03-May-2018 23:02:03 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[03-May-2018 23:02:06 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 3
+[03-May-2018 23:02:06 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 10
+[03-May-2018 23:02:06 Asia/Bangkok] PHP Notice:  Undefined index: user_ID in /home/a4qmwj6sc7xi/public_html/db/loaddata.php on line 16
+[04-May-2018 11:48:59 Asia/Bangkok] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/a4qmwj6sc7xi/public_html/page/backend/logout.php on line 14
